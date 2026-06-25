@@ -106,9 +106,3 @@ See `web_app/README.md` for detailed CSV and run instructions.
 
 The extension analyzes the active tab by calling the local web app API. See
 `chrome_extension/README.md` for the full loading and usage steps.
-
-## Dissertation alignment
-
-The documentation under `docs/` is written as mid-semester dissertation material.
-It follows the submitted project outline and content while narrowing the
-implementation to the machine-learning engine planned for the current milestone.
