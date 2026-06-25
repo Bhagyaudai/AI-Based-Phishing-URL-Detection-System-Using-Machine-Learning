@@ -30,14 +30,6 @@ authentication, or database integration.
 │   ├── raw/                       # Source CSV files from selected data providers
 │   └── README.md                  # Dataset layout and handling notes
 ├── chrome_extension/              # Chrome extension for current-tab URL checks
-├── docs/
-│   ├── 01_requirements_analysis.md
-│   ├── 02_literature_survey.md
-│   ├── 03_dataset_architecture.md
-│   ├── 04_feature_engineering.md
-│   ├── 05_architecture_diagrams.md
-│   ├── mid_sem_submission_report.md
-│   └── mid_sem_presentation_outline.md
 ├── models/                        # Serialized trained models and metadata
 ├── src/phishing_detection/
 │   ├── evaluation.py              # Model evaluation helpers
