@@ -45,17 +45,17 @@ authentication, or database integration.
 ## Quick start
 
 Create a Python environment and install the required libraries:
-
+```text
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -e .
-
+```
 ## Run the web app
-
+```text
 From the repository root:
 cd .\web_app\
 python app.py
-
+```
 Open:
 http://127.0.0.1:5000
 
