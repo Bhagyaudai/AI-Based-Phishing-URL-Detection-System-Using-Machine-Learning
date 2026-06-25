@@ -1,0 +1,2999 @@
+[
+  {
+    "event_type": "EXTENSION_SCAN",
+    "logged_at": "2026-06-25T18:20:57+00:00",
+    "details": {
+      "url": "https://www.microsoft.com/en-in/microsoft-teams/download-app",
+      "source": "chrome_extension",
+      "threat_level": "Safe",
+      "risk_score": 12,
+      "confidence_score": 86,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "BATCH_ANALYSIS",
+    "logged_at": "2026-06-25T18:02:01+00:00",
+    "details": {
+      "dataset_file": "20260625180134_phishing_batch_dataset_500_urls.csv",
+      "record_count": 500,
+      "highest_threat_level": "Critical"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:01+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/signin/249?id=8058",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:01+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/claim/248?id=4847",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:01+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/verify/247?id=9897",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:01+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/claim/246?id=1829",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/update/245?id=4981",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/login/244?id=6214",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/secure/243?id=8819",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/update/242?id=2043",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/signin/241?id=5915",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/claim/240?id=4055",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://github-security-check.site/claim/239?id=1407",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 82,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/secure/238?id=2689",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/claim/237?id=9744",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 89,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://github-security-check.site/gift/236?id=6409",
+      "source": "batch_upload",
+      "threat_level": "High Risk",
+      "risk_score": 76,
+      "confidence_score": 87,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://github-security-check.site/signin/235?id=4241",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/secure/234?id=7030",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/claim/233?id=4419",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/secure/232?id=3081",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/update/231?id=8610",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://github-security-check.site/secure/230?id=6788",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/update/229?id=9735",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:02:00+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/gift/228?id=3257",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/gift/227?id=5992",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/gift/226?id=9072",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/signin/225?id=2125",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/update/224?id=5516",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/claim/223?id=1959",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/secure/222?id=2799",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/verify/221?id=7380",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/claim/220?id=2164",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/update/219?id=3049",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/signin/218?id=9877",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/login/217?id=7535",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://github-security-check.site/verify/216?id=3052",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 89,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/gift/215?id=5824",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://github-security-check.site/signin/214?id=3697",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 89,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://github-security-check.site/verify/213?id=8634",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 89,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/login/212?id=6112",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/claim/211?id=3613",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:59+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/verify/210?id=9070",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/signin/209?id=8255",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://github-security-check.site/verify/208?id=9490",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/gift/207?id=7693",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/signin/206?id=4515",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/signin/205?id=8013",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://github-security-check.site/claim/204?id=2668",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 82,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/verify/203?id=7065",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://github-security-check.site/claim/202?id=7010",
+      "source": "batch_upload",
+      "threat_level": "High Risk",
+      "risk_score": 76,
+      "confidence_score": 87,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/secure/201?id=8118",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/update/200?id=3136",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/gift/199?id=2485",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/signin/198?id=4615",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/signin/197?id=9973",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/login/196?id=2183",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/claim/195?id=2929",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://microsoft-auth-update.click/signin/194?id=7179",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/secure/193?id=3138",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/secure/192?id=5579",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:58+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/signin/191?id=7127",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/login/190?id=3606",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/signin/189?id=3120",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/secure/188?id=8357",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/verify/187?id=4838",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://github-security-check.site/verify/186?id=5861",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://microsoft-auth-update.click/verify/185?id=3612",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/update/184?id=9119",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/claim/183?id=3753",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/claim/182?id=6838",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/signin/181?id=4057",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://microsoft-auth-update.click/signin/180?id=6885",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/update/179?id=8462",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/login/178?id=1744",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/claim/177?id=7592",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/login/176?id=4644",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/signin/175?id=2647",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:57+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/gift/174?id=1766",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://microsoft-auth-update.click/gift/173?id=5636",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://github-security-check.site/claim/172?id=3945",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 82,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/update/171?id=2619",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://microsoft-auth-update.click/gift/170?id=9440",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/update/169?id=2952",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/claim/168?id=4704",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/gift/167?id=8349",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://github-security-check.site/login/166?id=6402",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 89,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/verify/165?id=6936",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/gift/164?id=9404",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/signin/163?id=3246",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://github-security-check.site/verify/162?id=7480",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 89,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/update/161?id=1545",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/secure/160?id=8450",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/secure/159?id=6411",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://microsoft-auth-update.click/verify/158?id=8457",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/claim/157?id=2691",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:56+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/verify/156?id=1470",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/claim/155?id=8206",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://github-security-check.site/login/154?id=8778",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 89,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/claim/153?id=3113",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/gift/152?id=3873",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://microsoft-auth-update.click/gift/151?id=1592",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/signin/150?id=7743",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://microsoft-auth-update.click/verify/149?id=7492",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://github-security-check.site/verify/148?id=9495",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/signin/147?id=8695",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/secure/146?id=7397",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/update/145?id=8829",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/gift/144?id=6104",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/login/143?id=3295",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/secure/142?id=7966",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/gift/141?id=4237",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/signin/140?id=5404",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:55+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/claim/139?id=5573",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/login/138?id=5847",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://github-security-check.site/signin/137?id=9978",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/claim/136?id=3744",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/login/135?id=5841",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/gift/134?id=7679",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://github-security-check.site/claim/133?id=1280",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 82,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://github-security-check.site/secure/132?id=8275",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 93,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/claim/131?id=1713",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/login/130?id=3754",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/update/129?id=3820",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://github-security-check.site/signin/128?id=5304",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 89,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://github-security-check.site/update/127?id=5218",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/update/126?id=9838",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/gift/125?id=6325",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/claim/124?id=2468",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/verify/123?id=1401",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/verify/122?id=6999",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/gift/121?id=1116",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:54+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/claim/120?id=9804",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/claim/119?id=2112",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/secure/118?id=2526",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://github-security-check.site/login/117?id=9418",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 89,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://github-security-check.site/signin/116?id=8784",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/signin/115?id=9514",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/login/114?id=9854",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://microsoft-auth-update.click/update/113?id=6405",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/verify/112?id=5017",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/signin/111?id=1538",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/signin/110?id=8292",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://microsoft-auth-update.click/signin/109?id=5769",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/update/108?id=2144",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/secure/107?id=6350",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/update/106?id=9717",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://github-security-check.site/secure/105?id=5999",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/verify/104?id=7288",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://microsoft-auth-update.click/update/103?id=7300",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:53+00:00",
+    "details": {
+      "url": "http://github-security-check.site/login/102?id=3620",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 89,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/signin/101?id=7609",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/signin/100?id=1963",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/update/99?id=5020",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/update/98?id=6065",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/update/97?id=8296",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/claim/96?id=5800",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/signin/95?id=1004",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/verify/94?id=2586",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/verify/93?id=3382",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/update/92?id=7797",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/claim/91?id=4604",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/gift/90?id=5473",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/login/89?id=1305",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/update/88?id=6889",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/update/87?id=5918",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://github-security-check.site/signin/86?id=5831",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/claim/85?id=5959",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/signin/84?id=6469",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/claim/83?id=1332",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:52+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/gift/82?id=1259",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/login/81?id=4116",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/secure/80?id=2355",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://microsoft-auth-update.click/secure/79?id=2595",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/secure/78?id=9153",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/update/77?id=6488",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/signin/76?id=9896",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/gift/75?id=3998",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/gift/74?id=9452",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/login/73?id=7231",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/signin/72?id=1534",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/secure/71?id=5875",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/secure/70?id=2990",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/secure/69?id=2670",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/verify/68?id=5306",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/verify/67?id=4263",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://github-security-check.site/claim/66?id=2610",
+      "source": "batch_upload",
+      "threat_level": "High Risk",
+      "risk_score": 76,
+      "confidence_score": 87,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/update/65?id=6998",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:51+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/login/64?id=9136",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/gift/63?id=7757",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/secure/62?id=7733",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/update/61?id=4682",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/signin/60?id=9201",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/verify/59?id=5071",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://github-security-check.site/update/58?id=8408",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/verify/57?id=1134",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/login/56?id=8380",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/signin/55?id=4456",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://microsoft-auth-update.click/secure/54?id=2100",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/secure/53?id=6320",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/secure/52?id=1518",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/gift/51?id=4158",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/verify/50?id=5941",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://microsoft-auth-update.click/verify/49?id=4544",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/claim/48?id=6048",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/signin/47?id=6456",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:50+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/login/46?id=9241",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/login/45?id=4008",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/signin/44?id=7898",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/update/43?id=7510",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://account-secure-login.top/claim/42?id=9117",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/login/41?id=8878",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://github-security-check.site/verify/40?id=7539",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 89,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/claim/39?id=6856",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/secure/38?id=4333",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/update/37?id=8502",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/verify/36?id=5897",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://github-security-check.site/gift/35?id=4143",
+      "source": "batch_upload",
+      "threat_level": "High Risk",
+      "risk_score": 76,
+      "confidence_score": 87,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/gift/34?id=2804",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/verify/33?id=3452",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/signin/32?id=8938",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/verify/31?id=1332",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/signin/30?id=8500",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/secure/29?id=4077",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:49+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/login/28?id=2767",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://microsoft-auth-update.click/login/27?id=8020",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/login/26?id=9757",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/update/25?id=1708",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/signin/24?id=9511",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/verify/23?id=8578",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/secure/22?id=8287",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/update/21?id=4350",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 90,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/login/20?id=1754",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/gift/19?id=6960",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/secure/18?id=4512",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/verify/17?id=2664",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/update/16?id=5906",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/secure/15?id=8512",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://otp-update-now.xyz/gift/14?id=6299",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://github-security-check.site/secure/13?id=1937",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://bank-verification-login.live/gift/12?id=4257",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:48+00:00",
+    "details": {
+      "url": "http://github-security-check.site/update/11?id=9276",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:47+00:00",
+    "details": {
+      "url": "http://github-security-check.site/update/10?id=9759",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:47+00:00",
+    "details": {
+      "url": "http://secure-login-google.xyz/gift/9?id=7199",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:47+00:00",
+    "details": {
+      "url": "http://free-gift-card.win/gift/8?id=6072",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 83,
+      "confidence_score": 92,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:47+00:00",
+    "details": {
+      "url": "http://github-security-check.site/gift/7?id=6693",
+      "source": "batch_upload",
+      "threat_level": "High Risk",
+      "risk_score": 76,
+      "confidence_score": 87,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:47+00:00",
+    "details": {
+      "url": "http://microsoft-auth-update.click/secure/6?id=7045",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:47+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/secure/5?id=3550",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:47+00:00",
+    "details": {
+      "url": "http://wallet-verify-now.click/gift/4?id=8995",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 96,
+      "confidence_score": 97,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:47+00:00",
+    "details": {
+      "url": "http://amaz0n-login.ru/gift/3?id=4247",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  },
+  {
+    "event_type": "URL_SCAN",
+    "logged_at": "2026-06-25T18:01:47+00:00",
+    "details": {
+      "url": "http://paypal-verify-account.top/gift/2?id=5241",
+      "source": "batch_upload",
+      "threat_level": "Critical",
+      "risk_score": 100,
+      "confidence_score": 100,
+      "model_source": "trained_model"
+    }
+  }
+]

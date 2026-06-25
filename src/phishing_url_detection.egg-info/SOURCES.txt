@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/phishing_detection/__init__.py
+src/phishing_detection/evaluation.py
+src/phishing_detection/features.py
+src/phishing_detection/models.py
+src/phishing_detection/prediction_engine.py
+src/phishing_detection/preprocessing.py
+src/phishing_url_detection.egg-info/PKG-INFO
+src/phishing_url_detection.egg-info/SOURCES.txt
+src/phishing_url_detection.egg-info/dependency_links.txt
+src/phishing_url_detection.egg-info/requires.txt
+src/phishing_url_detection.egg-info/top_level.txt
+tests/test_pipeline_smoke.py
+tests/test_web_app_smoke.py

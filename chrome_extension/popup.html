@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="popup.css">
+    <title>Phishing URL Intelligence</title>
+  </head>
+  <body>
+    <section class="popup-shell">
+      <header>
+        <span class="signal"></span>
+        <div>
+          <p class="eyebrow">URL Intelligence</p>
+          <h1>Phishing Risk Check</h1>
+        </div>
+      </header>
+
+      <div class="url-box">
+        <span>Current URL</span>
+        <strong id="currentUrl">Loading current tab...</strong>
+      </div>
+
+      <button id="scanButton">Analyze Current Page</button>
+      <button id="openWebAppButton" class="secondary">Open Web App</button>
+
+      <article id="resultPanel" class="result-panel muted">
+        Start the local web app, then analyze the current page.
+      </article>
+    </section>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

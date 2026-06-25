@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://www.microsoft.com/en-in/microsoft-teams/download-app",
+    "analyzed_at": "2026-06-25T18:20:57+00:00",
+    "model_source": "trained_model",
+    "risk_score": 12,
+    "phishing_probability": 0.02594,
+    "confidence_score": 86,
+    "threat_level": "Safe",
+    "reasoning": [
+      "Model probability indicates low phishing likelihood",
+      "Known trusted domain with normal security and URL structure",
+      "Trusted domain structure and reputation indicators look normal"
+    ],
+    "recommended_action": "Allow with normal monitoring",
+    "source": "chrome_extension"
+  },
+  {
+    "url": "Batch upload: 20260625180134_phishing_batch_dataset_500_urls.csv",
+    "analyzed_at": "2026-06-25T18:02:01+00:00",
+    "source": "batch_upload",
+    "risk_score": 100,
+    "confidence_score": 100,
+    "threat_level": "Critical",
+    "reasoning": [
+      "Analyzed 500 URLs from uploaded CSV"
+    ],
+    "recommended_action": "Review high-risk and critical rows before allowing access"
+  },
+  {
+    "url": "https://teams.microsoft.com/v2/",
+    "analyzed_at": "2026-06-25T17:52:58+00:00",
+    "model_source": "trained_model",
+    "risk_score": 0,
+    "phishing_probability": 0.004702,
+    "confidence_score": 87,
+    "threat_level": "Safe",
+    "reasoning": [
+      "Model probability indicates low phishing likelihood",
+      "Known trusted domain with normal security and URL structure",
+      "Trusted domain structure and reputation indicators look normal"
+    ],
+    "recommended_action": "Allow with normal monitoring",
+    "source": "web"
+  }
+]

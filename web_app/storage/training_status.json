@@ -1,0 +1,40 @@
+{
+  "status": "SUCCESS",
+  "best_model_name": "Logistic Regression",
+  "class_distribution": {
+    "legitimate": 10,
+    "phishing": 500
+  },
+  "cleaned_records": 510,
+  "duplicate_urls_removed": 490,
+  "test_metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": {
+      "true_negative": 2,
+      "false_positive": 0,
+      "false_negative": 0,
+      "true_positive": 100
+    },
+    "roc_auc": 1.0
+  },
+  "feature_count": 44,
+  "artifact_saved": true,
+  "message": "Training successful",
+  "trained_at": "2026-06-25T17:54:01+00:00",
+  "dataset_file": "20260625175348_phishing_urls_1000_synthetic.csv",
+  "validation": {
+    "records": 1000,
+    "class_distribution": {
+      "legitimate": 500,
+      "phishing": 500
+    },
+    "imbalance_ratio": 1.0
+  },
+  "artifact_paths": {
+    "model": "C:\\Users\\bhagy\\Downloads\\New folder (3)\\AI-Based-Phishing-URL-Detection-System-Using-Machine-Learning\\web_app\\artifacts\\models\\best_model.joblib",
+    "metadata": "C:\\Users\\bhagy\\Downloads\\New folder (3)\\AI-Based-Phishing-URL-Detection-System-Using-Machine-Learning\\web_app\\artifacts\\models\\training_metadata.json"
+  }
+}

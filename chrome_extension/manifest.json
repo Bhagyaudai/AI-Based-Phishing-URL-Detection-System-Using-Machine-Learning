@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Phishing URL Intelligence",
+  "version": "1.0.0",
+  "description": "Analyze the current page URL using the local phishing detection engine.",
+  "permissions": ["activeTab", "storage", "tabs"],
+  "host_permissions": [
+    "http://127.0.0.1:5000/*",
+    "http://localhost:5000/*"
+  ],
+  "action": {
+    "default_title": "Analyze URL",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["content_script.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

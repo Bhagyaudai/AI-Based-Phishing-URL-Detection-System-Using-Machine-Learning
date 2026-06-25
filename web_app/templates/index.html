@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Phishing URL Intelligence</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  </head>
+  <body>
+    <main class="shell">
+      <nav class="top-nav">
+        <a href="#scanPage">URL Scan</a>
+        <a href="#trainingPage">CSV Training</a>
+        <a href="#statusPage">Model Status</a>
+        <a href="#explanationPage">Result Explanation</a>
+        <a href="#logsPage">Logs & History</a>
+      </nav>
+
+      <section class="hero">
+        <div>
+          <p class="eyebrow">Enterprise URL Threat Intelligence</p>
+          <h1>Detect phishing, lookalike domains, and suspicious URL mutations.</h1>
+          <p class="hero-copy">
+            Analyze a single URL, retrain the model with CSV datasets, and run
+            batch checks using the same machine-learning detection core.
+          </p>
+        </div>
+        <div class="status-card">
+          <span class="status-dot"></span>
+          <div>
+            <strong>Detection engine ready</strong>
+            <small id="modelStatus">Checking model status...</small>
+          </div>
+        </div>
+      </section>
+
+      <section class="grid">
+        <article id="scanPage" class="panel primary-panel app-section">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">URL Scan Page</p>
+              <h2>Investigate a suspicious link</h2>
+            </div>
+          </div>
+          <form id="analyzeForm" class="url-form">
+            <input id="urlInput" type="text" placeholder="https://example-login-secure.com" autocomplete="off">
+            <button type="submit">Analyze URL</button>
+          </form>
+          <div id="resultCard" class="result-card empty">
+            <p>Submit a URL to view risk score, confidence, threat level, and reasoning.</p>
+          </div>
+        </article>
+
+        <article id="trainingPage" class="panel app-section">
+          <p class="eyebrow">Model Training</p>
+          <h2>Retrain from CSV</h2>
+          <p class="muted">Upload a CSV with at least <code>url</code> and <code>label</code> columns.</p>
+          <form id="trainForm" class="upload-form">
+            <input id="trainFile" type="file" accept=".csv">
+            <button type="submit">Train Model</button>
+          </form>
+          <div id="trainingStatus" class="status-strip">No training run has started in this session.</div>
+          <div id="trainingOutput" class="output-box">Training summary will appear here.</div>
+        </article>
+
+        <article id="csvUploadPage" class="panel app-section">
+          <p class="eyebrow">CSV Upload Page</p>
+          <h2>Analyze CSV URLs</h2>
+          <p class="muted">Upload a CSV with a <code>url</code> column. Optional metadata columns are used when present.</p>
+          <form id="batchForm" class="upload-form">
+            <input id="batchFile" type="file" accept=".csv">
+            <button type="submit">Run Batch Check</button>
+          </form>
+          <div id="batchOutput" class="batch-output">Batch results will appear here.</div>
+        </article>
+      </section>
+
+      <section id="statusPage" class="panel history-panel app-section">
+        <p class="eyebrow">Model Status Page</p>
+        <h2>Active detection model</h2>
+        <div id="modelStatusDetails" class="status-grid"></div>
+      </section>
+
+      <section id="explanationPage" class="panel history-panel app-section">
+        <p class="eyebrow">Result Explanation Page</p>
+        <h2>How the result is calculated</h2>
+        <div class="explanation-grid">
+          <div>
+            <strong>Risk score</strong>
+            <p class="muted">Combines model probability with structural evidence such as suspicious tokens, redirects, brand similarity, homograph indicators, and domain reputation signals.</p>
+          </div>
+          <div>
+            <strong>Confidence score</strong>
+            <p class="muted">Measures agreement between model certainty and independent feature evidence. Higher confidence means the verdict is supported by multiple signals.</p>
+          </div>
+          <div>
+            <strong>Trusted-domain handling</strong>
+            <p class="muted">Known legitimate domains are kept safe when HTTPS, reputation, domain structure, and URL behavior look normal. Deceptive evidence overrides this protection.</p>
+          </div>
+        </div>
+      </section>
+
+      <section id="logsPage" class="panel history-panel app-section">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Logs & History Page</p>
+            <h2>Operational activity</h2>
+          </div>
+          <div class="button-row">
+            <button id="clearHistoryButton" class="ghost-button">Clear History</button>
+            <button id="clearLogsButton" class="ghost-button">Clear Logs</button>
+          </div>
+        </div>
+        <div class="two-column">
+          <div>
+            <h3>Detection history</h3>
+            <div id="historyList" class="history-list"></div>
+          </div>
+          <div>
+            <h3>System logs</h3>
+            <div id="logList" class="history-list"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+  </body>
+</html>
